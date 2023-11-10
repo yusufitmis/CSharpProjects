@@ -1,0 +1,8 @@
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\bin\Debug\AraçKiralama.exe.config
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\bin\Debug\AraçKiralama.exe
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\bin\Debug\AraçKiralama.pdb
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.csproj.AssemblyReference.cache
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.exe
+C:\Users\muhammed\Desktop\c#_temelleri\projeler\AraçKiralama\AraçKiralama\obj\Debug\AraçKiralama.pdb
