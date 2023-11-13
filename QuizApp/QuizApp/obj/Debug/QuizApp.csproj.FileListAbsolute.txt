@@ -1,0 +1,8 @@
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\muhammed\Desktop\Dersler\BTKC#İLERİ\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
